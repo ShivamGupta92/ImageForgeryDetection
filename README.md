@@ -18,7 +18,7 @@ This project focuses on detecting image forgery using Error Level Analysis (ELA)
 Installation
 Clone the repository:
 ```sh
-git clone https://github.com/your-username/image-forgery-detection.git
+git clone https://github.com/ShivamGupta92/ImageForgeryDetection.git
  ```
  
 Navigate to the project directory:
